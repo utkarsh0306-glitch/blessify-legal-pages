@@ -1,0 +1,1 @@
+# blessify-legal-pages
