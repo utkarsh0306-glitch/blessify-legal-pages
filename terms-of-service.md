@@ -8,6 +8,6 @@ You can remove Blessify at any time by kicking it from your server.
 **Data Usage:** Blessify stores only basic Discord user and server IDs needed for functionality.  
 No sensitive personal data is collected or shared.
 
-If you have questions or concerns, contact **blessify.support@gmail.com**
+If you have questions or concerns, contact **discordbot0306@gmail.com**
 
 _Last updated: October 2025_
